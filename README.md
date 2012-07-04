@@ -3,6 +3,10 @@
 Adds more positions to the dashboard Appearance/Messages interface.  
 Knowledge and editing of your theme template may be required to add support for custom positions.
 
+## Changelog
+1.0.1, hooks now target Base_  
+1.0.0, initial release  
+
 ## Details
 See [http://vanillaforums.org/addon/moremessagespositions-plugin](http://vanillaforums.org/addon/moremessagespositions-plugin)
 
